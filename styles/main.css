@@ -54,6 +54,6 @@ textarea {
 }
 
 #container {
-    width: 90vw;
+    width: 90vw; /*largura*/
     max-width: 700px;
 }
